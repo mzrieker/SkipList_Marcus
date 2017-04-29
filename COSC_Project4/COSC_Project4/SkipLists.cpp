@@ -1,7 +1,6 @@
 /*
 * C++ Program to Implement Skip List
 */
-// your mom
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
